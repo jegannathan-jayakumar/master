@@ -2,7 +2,7 @@ import { create } from '@storybook/theming';
 import BrandLogo from "../images/brandlogo.png";
 export default create({
     base: 'light',
-    brandTitle: 'Jegan storybook',
+    brandTitle: 'Jegans storybook',
     brandUrl: '#',
     brandImage: BrandLogo,
     brandTarget: '_self',
